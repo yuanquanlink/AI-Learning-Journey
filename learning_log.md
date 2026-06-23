@@ -80,3 +80,10 @@
 - Craft Agents OSS
 - Claude Workflow
 - FORCE 原动力大会资料
+## 2026-06-23
+
+学习内容：
+
+- Context
+- Token
+- Git 基础
