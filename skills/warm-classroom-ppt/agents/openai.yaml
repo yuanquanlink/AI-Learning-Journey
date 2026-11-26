@@ -1,0 +1,4 @@
+interface:
+  display_name: "暖色手绘课堂PPT"
+  short_description: "复用米色底、手绘插图与清晰互动版式，制作适合学生投屏学习的可编辑课件"
+  default_prompt: "使用 $warm-classroom-ppt，按我的主题和受众制作暖色手绘风课件，组合不同互动版式并逐页检查。"
